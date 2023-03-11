@@ -1,5 +1,5 @@
 import streamlit as st
-
+c=st.write("GIẢI PHƯƠNG TRÌNH BẬC NHẤT")
 a = st.number_input('Tham số a')
 b = st.number_input('Tham số b')
 
